@@ -14,7 +14,7 @@ and the targets of these mean tweets. Fun and simple project to work with.
 
 MIT License
 
-Copyright (c) 2021 NelsonM
+Copyright (c) 2021 Cheruiyot
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
